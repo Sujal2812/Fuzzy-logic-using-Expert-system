@@ -742,8 +742,8 @@ with st.sidebar:
     page = st.radio(
         "Navigation",
         [
-            "Risk Analysis",
-            "Dataset Explorer",
+            "Dataset Explorer",           
+            "Risk Analysis",        
             "System Evaluation",
             "About the System",
         ],
